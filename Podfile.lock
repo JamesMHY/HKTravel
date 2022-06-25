@@ -1,0 +1,29 @@
+PODS:
+  - LiquidFloatingActionButton (0.1.1)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - LiquidFloatingActionButton (from `https://github.com/yoavlt/LiquidFloatingActionButton`,
+    branch `swift-2.0`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  LiquidFloatingActionButton:
+    :branch: swift-2.0
+    :git: https://github.com/yoavlt/LiquidFloatingActionButton
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  LiquidFloatingActionButton:
+    :commit: ae0ba8265dbf8ea80ff7dd20b3e72e8a728ce930
+    :git: https://github.com/yoavlt/LiquidFloatingActionButton
+  SwiftyJSON:
+    :commit: 929539eb6a3304eaa9153ca44041a78b85bf2ee5
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  LiquidFloatingActionButton: dcdae1e59eb07eccbf60c027001a4d6731c345c9
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
